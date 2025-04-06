@@ -1,6 +1,6 @@
 # Donation Management System
 
-A Laravel 10-based donation management system integrated with Midtrans payment gateway.
+A Laravel 12-based donation management system integrated with Midtrans payment gateway.
 
 ## Features
 
