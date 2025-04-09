@@ -3,7 +3,7 @@
     {{-- hero --}}
     <div class="row justify-content-between py-4 my-5">
         <div class="col-12 col-md-6 align-self-center">
-            <h1 class="display-4 inter-bold">Bersama, Kita<span class="d-block text-secondary inter-bold">Berbagi
+            <h1 class="display-4 inter-bold">Bersama, Kita<span class="d-block text-secondary inter-bold">Terus Berbagi
                     Kebaikan</span></h1>
             <p class="lead">Bantu mereka yang membutuhkan dengan sedekah terbaikmu.<br>Salurkan zakat, dukung pembangunan
                 masjid, bantu korban bencana, dan bahagiakan anak-anak panti asuhan. Setiap donasi adalah cahaya harapan.
