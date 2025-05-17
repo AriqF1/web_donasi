@@ -39,7 +39,7 @@
                 {{-- navbar --}}
                 <nav class="navbar navbar-expand-lg navbar-light bg-white">
                     <div class="container">
-                        <a class="navbar-brand text-white bg-primary px-3" href="/">NgamalYuk</a>
+                        <a class="navbar-brand text-white bg-primary px-3 rounded">Beramal yuk</a>
                         <button class="navbar-toggler" type="button" data-bs-toggle="collapse"
                             data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent"
                             aria-expanded="false" aria-label="Toggle navigation">
@@ -92,14 +92,14 @@
         </div>
         {{-- footer --}}
         <footer class="text-center py-3 mt-5 bg-secondary footer">
-            <p class="text-white m-0 p-0">NgamalYuk &copy; 2025</p>
+            <p class="text-white m-0 p-0">Beramal yuk &copy; 2025</p>
         </footer>
         {{-- end footer --}}
     </div>
 
     <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/js/bootstrap.bundle.min.js"
-        integrity="sha384-YvpcrYf0tY3lHB60NNkmXc5s9fDVZLESaAA55NDzOxhy9GkcIdslK1eN7N6jIeHz"
-        crossorigin="anonymous"></script>
+        integrity="sha384-YvpcrYf0tY3lHB60NNkmXc5s9fDVZLESaAA55NDzOxhy9GkcIdslK1eN7N6jIeHz" crossorigin="anonymous">
+    </script>
 </body>
 
 </html>
